@@ -1,0 +1,439 @@
+{
+    "output": {
+        "generalInformation": {
+            "validationNotes": "",
+            "companyName": "Binder Energietechnik Ges.m.b.H",
+            "offerNumber": null,
+            "deliveryDate": "2024-04-23",
+            "customerReferenceNumber": "25120007",
+            "bookingDate": null,
+            "documentDate": "2024-04-10",
+            "currency": "EUR",
+            "totalAmount": 8154.9,
+            "numberOfArticles": 3,
+            "validationDetails": "  - SKU: „104449“ | Gesamtmenge: 199 | Artikel Line IDs: 1,0 (99 Stück), 2,0 (100 Stück)\n  - SKU: „107291“ | Gesamtmenge: 200 | Artikel Line IDs: 3,0 (200 Stück)",
+            "metadata": {
+                "validationNotes": {
+                    "regexValid": false
+                },
+                "companyName": {
+                    "regexValid": true
+                },
+                "deliveryDate": {
+                    "regexValid": true
+                },
+                "customerReferenceNumber": {
+                    "regexValid": true
+                },
+                "documentDate": {
+                    "regexValid": true
+                },
+                "currency": {
+                    "regexValid": true
+                },
+                "validationDetails": {
+                    "regexValid": true
+                }
+            }
+        },
+        "logisticInformation": {
+            "addresses": {
+                "billingAddress": {
+                    "category": "Debitorenrechnungsadresse",
+                    "countryCode": "AT",
+                    "postalCode": "8572",
+                    "city": "Bärnbach",
+                    "street": "Mitterdorfer Straße",
+                    "number": "5",
+                    "addition": null,
+                    "isBusiness": "true",
+                    "additionalInfo": "Binder Energietechnik Ges.m.b.H."
+                },
+                "shippingAddress": {
+                    "category": "Debitorenlieferadresse",
+                    "countryCode": "AT",
+                    "postalCode": "8572",
+                    "city": "Bärnbach",
+                    "street": "Mitterdorferstrasse",
+                    "number": "5",
+                    "addition": null,
+                    "isBusiness": "true",
+                    "additionalInfo": "Binder Energietechnik GmbH"
+                },
+                "supplierAddress": {
+                    "category": "Kreditorenadresse",
+                    "countryCode": "DE",
+                    "postalCode": "48683",
+                    "city": "Ahaus",
+                    "street": "Rottweg",
+                    "number": "22",
+                    "addition": null,
+                    "isBusiness": "true",
+                    "additionalInfo": "ISO-TECH Kunststoff GmbH"
+                }
+            },
+            "metadata": {
+                "addresses": {
+                    "billingAddress": {
+                        "category": {
+                            "regexValid": true
+                        },
+                        "countryCode": {
+                            "regexValid": true
+                        },
+                        "postalCode": {
+                            "regexValid": true
+                        },
+                        "city": {
+                            "regexValid": true
+                        },
+                        "street": {
+                            "regexValid": true
+                        },
+                        "number": {
+                            "regexValid": true
+                        },
+                        "isBusiness": {
+                            "regexValid": true
+                        },
+                        "additionalInfo": {
+                            "regexValid": true
+                        }
+                    },
+                    "shippingAddress": {
+                        "category": {
+                            "regexValid": true
+                        },
+                        "countryCode": {
+                            "regexValid": true
+                        },
+                        "postalCode": {
+                            "regexValid": true
+                        },
+                        "city": {
+                            "regexValid": true
+                        },
+                        "street": {
+                            "regexValid": true
+                        },
+                        "number": {
+                            "regexValid": true
+                        },
+                        "isBusiness": {
+                            "regexValid": true
+                        },
+                        "additionalInfo": {
+                            "regexValid": true
+                        }
+                    },
+                    "supplierAddress": {
+                        "category": {
+                            "regexValid": true
+                        },
+                        "countryCode": {
+                            "regexValid": true
+                        },
+                        "postalCode": {
+                            "regexValid": true
+                        },
+                        "city": {
+                            "regexValid": true
+                        },
+                        "street": {
+                            "regexValid": true
+                        },
+                        "number": {
+                            "regexValid": true
+                        },
+                        "isBusiness": {
+                            "regexValid": true
+                        },
+                        "additionalInfo": {
+                            "regexValid": true
+                        }
+                    }
+                }
+            }
+        },
+        "contactInformation": {
+            "debitorContactEmail": "office@binder-gmbh.at",
+            "debitorOrderConfirmationEmail": "einkauf@binder-gmbh.at",
+            "debitorInvoiceConfirmationEmail": "buchhaltung@binder-gmbh.at",
+            "debitorContactName": "Josip Jelic",
+            "creditorContactEmail": null,
+            "creditorContactName": null,
+            "distributorContactEmail": null,
+            "distributorContactName": null,
+            "metadata": {
+                "debitorContactEmail": {
+                    "regexValid": true
+                },
+                "debitorOrderConfirmationEmail": {
+                    "regexValid": true
+                },
+                "debitorInvoiceConfirmationEmail": {
+                    "regexValid": true
+                },
+                "debitorContactName": {
+                    "regexValid": true
+                }
+            },
+            "debitor": {
+                "address": "Mitterdorfer Straße 5",
+                "city": "Bärnbach",
+                "countryCode": "AT",
+                "postalCode": "8572",
+                "name": "Binder Energietechnik GmbH",
+                "vatId": null,
+                "id": "21322",
+                "score": 0.08459088,
+                "numFound": 1
+            }
+        },
+        "additionalInformation": {
+            "vatId": "ATU30396309",
+            "metadata": {
+                "vatId": {
+                    "regexValid": true
+                }
+            }
+        },
+        "orderPositions": {
+            "items": [
+                {
+                    "lineNumber": 1,
+                    "sku": null,
+                    "description": "BKKF Kunststoff Gleitleiste Kette FV140 PE grün Hutprofil 65 x30 L=2m 5020480-010 Lieferdatum: 23.04.2024",
+                    "qty": 99,
+                    "unit": "Stk",
+                    "unitPrice": 25.1,
+                    "totalPrice": 2484.9,
+                    "vendorSku": "104449",
+                    "material": "PE",
+                    "color": "grün",
+                    "drawingNumber": "5020480-010",
+                    "drawingName": "",
+                    "drawingPosition": "",
+                    "dimensions": {
+                        "length": 65,
+                        "lengthUnit": "mm",
+                        "width": 30,
+                        "widthUnit": "mm",
+                        "height": 2000,
+                        "heightUnit": "mm"
+                    },
+                    "article": {
+                        "id": "F277664",
+                        "sku": "F277664",
+                        "vendorSku": null,
+                        "name": "Kunststoff Gleitleiste zu FV140",
+                        "drawingNumber": "5020480-010",
+                        "material": "00000025",
+                        "color": "natur",
+                        "length": 2000,
+                        "width": 65,
+                        "height": 30,
+                        "score": 79.64647,
+                        "foundBy": "drawingNumber",
+                        "numFound": 1
+                    }
+                },
+                {
+                    "lineNumber": 2,
+                    "sku": null,
+                    "description": "BKKF Kunststoff Gleitleiste Kette FV140 PE grün Hutprofil 65 x30 L=2m 5020480-010 Lieferdatum: 23.04.2024",
+                    "qty": 100,
+                    "unit": "Stk",
+                    "unitPrice": 24.9,
+                    "totalPrice": 2490,
+                    "vendorSku": "104449",
+                    "material": "PE",
+                    "color": "grün",
+                    "drawingNumber": "5020480-010",
+                    "drawingName": "",
+                    "drawingPosition": "",
+                    "dimensions": {
+                        "length": 65,
+                        "lengthUnit": "mm",
+                        "width": 30,
+                        "widthUnit": "mm",
+                        "height": 2000,
+                        "heightUnit": "mm"
+                    },
+                    "article": {
+                        "id": "F277664",
+                        "sku": "F277664",
+                        "vendorSku": null,
+                        "name": "Kunststoff Gleitleiste zu FV140",
+                        "drawingNumber": "5020480-010",
+                        "material": "00000025",
+                        "color": "natur",
+                        "length": 2000,
+                        "width": 65,
+                        "height": 30,
+                        "score": 79.64647,
+                        "foundBy": "drawingNumber",
+                        "numFound": 1
+                    }
+                },
+                {
+                    "lineNumber": 3,
+                    "sku": null,
+                    "description": "KUNSTSTOFF GLEITLEISTE KKF PE GRÜN 65x12 L=2M 5020480-015 Lieferdatum: 23.04.2024",
+                    "qty": 200,
+                    "unit": "Stk",
+                    "unitPrice": 15.9,
+                    "totalPrice": 3180,
+                    "vendorSku": "107291",
+                    "material": "PE",
+                    "color": "grün",
+                    "drawingNumber": "5020480-015",
+                    "drawingName": "",
+                    "drawingPosition": "",
+                    "dimensions": {
+                        "length": 65,
+                        "lengthUnit": "mm",
+                        "width": 12,
+                        "widthUnit": "mm",
+                        "height": 2000,
+                        "heightUnit": "mm"
+                    },
+                    "article": {
+                        "id": "F302553",
+                        "sku": "F302553",
+                        "vendorSku": null,
+                        "name": "Gleitleiste KKF",
+                        "drawingNumber": "5020480-015 (vorher TC-0016384)",
+                        "material": "00000032",
+                        "color": "grün",
+                        "length": 2000,
+                        "width": 65,
+                        "height": 12,
+                        "score": 51.715187,
+                        "foundBy": "drawingNumber",
+                        "numFound": 1
+                    }
+                }
+            ],
+            "metadata": {
+                "items": [
+                    {
+                        "description": {
+                            "regexValid": true
+                        },
+                        "unit": {
+                            "regexValid": true
+                        },
+                        "vendorSku": {
+                            "regexValid": true
+                        },
+                        "material": {
+                            "regexValid": true
+                        },
+                        "color": {
+                            "regexValid": true
+                        },
+                        "drawingNumber": {
+                            "regexValid": true
+                        },
+                        "drawingName": {
+                            "regexValid": false
+                        },
+                        "drawingPosition": {
+                            "regexValid": false
+                        },
+                        "dimensions": {
+                            "lengthUnit": {
+                                "regexValid": true
+                            },
+                            "widthUnit": {
+                                "regexValid": true
+                            },
+                            "heightUnit": {
+                                "regexValid": true
+                            }
+                        }
+                    },
+                    {
+                        "description": {
+                            "regexValid": true
+                        },
+                        "unit": {
+                            "regexValid": true
+                        },
+                        "vendorSku": {
+                            "regexValid": true
+                        },
+                        "material": {
+                            "regexValid": true
+                        },
+                        "color": {
+                            "regexValid": true
+                        },
+                        "drawingNumber": {
+                            "regexValid": true
+                        },
+                        "drawingName": {
+                            "regexValid": false
+                        },
+                        "drawingPosition": {
+                            "regexValid": false
+                        },
+                        "dimensions": {
+                            "lengthUnit": {
+                                "regexValid": true
+                            },
+                            "widthUnit": {
+                                "regexValid": true
+                            },
+                            "heightUnit": {
+                                "regexValid": true
+                            }
+                        }
+                    },
+                    {
+                        "description": {
+                            "regexValid": true
+                        },
+                        "unit": {
+                            "regexValid": true
+                        },
+                        "vendorSku": {
+                            "regexValid": true
+                        },
+                        "material": {
+                            "regexValid": true
+                        },
+                        "color": {
+                            "regexValid": true
+                        },
+                        "drawingNumber": {
+                            "regexValid": true
+                        },
+                        "drawingName": {
+                            "regexValid": false
+                        },
+                        "drawingPosition": {
+                            "regexValid": false
+                        },
+                        "dimensions": {
+                            "lengthUnit": {
+                                "regexValid": true
+                            },
+                            "widthUnit": {
+                                "regexValid": true
+                            },
+                            "heightUnit": {
+                                "regexValid": true
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "run_id": "9eb34cf1-9f09-4b16-965c-7218e181fab4",
+        "feedback_tokens": []
+    }
+}
